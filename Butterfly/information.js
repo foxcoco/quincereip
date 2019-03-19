@@ -24,5 +24,4 @@ function hide_popup ()
 function popup_display_none ()
 {
 	document.getElementById("popup").style.display = "none";
-}
-// JavaScript Document
+}// JavaScript Document
