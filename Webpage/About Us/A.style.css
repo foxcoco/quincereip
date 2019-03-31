@@ -1,5 +1,25 @@
 * {box-sizing:border-box}
 
+#sitetitle {
+	font-family: "Harlow Solid";
+	position: absolute;
+	color:gold;
+	font-size: 72px;
+	z-index: 1;
+	left: 100px;
+    top: 0px;
+}
+
+#sitesubtitle {
+	font-family: "Harlow Solid";
+	color:skyblue;
+	position: absolute;
+	z-index: 1;
+	left: 650px;
+    top: 160px;
+}
+
+
 .slideshow-container {
   max-width: 1000px;
   position: relative;
